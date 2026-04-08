@@ -1,0 +1,37 @@
+[
+  {
+    "id": "31ccfbc2-4ae4-447a-970f-353467f5e9cb",
+    "sku": "REAL-180GB-092",
+    "name": "Realme Model Pro",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Realme",
+    "price": 26893.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 49,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "amoled",
+      "ssd",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 26.1,
+      "width": 22.5,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "576b46ea-84b7-4693-9a79-9539b5b743a7",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-03-19T00:00:00Z"
+  }
+]
